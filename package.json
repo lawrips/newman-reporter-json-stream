@@ -1,7 +1,7 @@
 {
-  "name": "newman-reporter-basic",
+  "name": "newman-reporter-json-stream",
   "version": "0.0.1",
-  "description": "a v basic reporter for newman",
+  "description": "a v json reporter for newman",
   "keywords": [
     "postman",
     "newman",
@@ -10,7 +10,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lawrips/newman-reporter-basic.git"
+    "url": "https://github.com/lawrips/newman-reporter-json-stream.git"
   },
   "directories": {
     "doc": "docs",
