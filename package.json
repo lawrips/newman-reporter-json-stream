@@ -1,5 +1,5 @@
 {
-  "name": "newman-reporter-json-stream",
+  "name": "newman-reporter-json-stream-detail",
   "version": "0.0.1",
   "description": "a v json reporter for newman",
   "keywords": [
@@ -10,7 +10,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lawrips/newman-reporter-json-stream.git"
+    "url": "https://github.com/lawrips/newman-reporter-json-stream-detail.git"
   },
   "directories": {
     "doc": "docs",
