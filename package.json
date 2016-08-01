@@ -1,7 +1,7 @@
 {
   "name": "newman-reporter-json-stream-detail",
-  "version": "0.0.1",
-  "description": "a v json reporter for newman",
+  "version": "0.0.2",
+  "description": "a json reporter for newman",
   "keywords": [
     "postman",
     "newman",
